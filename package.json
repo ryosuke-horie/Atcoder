@@ -1,0 +1,19 @@
+{
+  "name": "atcoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryosuke-horie/Atcoder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryosuke-horie/Atcoder/issues"
+  },
+  "homepage": "https://github.com/ryosuke-horie/Atcoder#readme"
+}
